@@ -177,7 +177,7 @@
 - git add .
 - git commit -m "wiki" .
 - git push
-- https://github.com/tempest200903/20141115-Checkstyle/blob/77845b6163c5499d1cb43864a79c1a4bda1d89af/F%EF%80%BAgoat-pc-dataecworkspace20141115-Checkstylewiki20141115-Checkstyle.md
+- https://github.com/tempest200903/20141115-Checkstyle/blob/master/wiki/20141115-Checkstyle.md
 
 ## timelog ##
 
