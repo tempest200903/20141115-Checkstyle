@@ -12,6 +12,7 @@ public class App
     {
         System.out.println("Hello World!");
         int abcdefghijklmnopqrstuvwxyz_abcdefghijklmnopqrstuvwxyz_abcdefghijklmnopqrstuvwxyz = 1;
+        abcdefghijklmnopqrstuvwxyz_abcdefghijklmnopqrstuvwxyz_abcdefghijklmnopqrstuvwxyz.LongPackageName z = null;
     }
 
 }

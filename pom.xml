@@ -22,7 +22,7 @@
     <artifactId>maven-checkstyle-plugin</artifactId>
     <version>2.13</version>
     <configuration>
-     <configLocation>config/maven_checks.xml</configLocation>
+     <configLocation>config/my_checks.xml</configLocation>
     </configuration>
     <reportSets>
      <reportSet>
