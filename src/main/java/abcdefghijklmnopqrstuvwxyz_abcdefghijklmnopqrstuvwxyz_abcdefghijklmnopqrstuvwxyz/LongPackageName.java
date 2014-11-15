@@ -1,0 +1,5 @@
+package abcdefghijklmnopqrstuvwxyz_abcdefghijklmnopqrstuvwxyz_abcdefghijklmnopqrstuvwxyz;
+
+public class LongPackageName {
+
+}

@@ -1,5 +1,7 @@
 package com.github.tempest200903;
 
+import abcdefghijklmnopqrstuvwxyz_abcdefghijklmnopqrstuvwxyz_abcdefghijklmnopqrstuvwxyz.LongPackageName;
+
 /**
  * Hello world!
  *
